@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1, CP24
+https://tv.bell.ca/watch/channel-CP24H
+
+#EXTINF:-1, National Geographic
+https://tv.bell.ca/watch/channel-GEOHD
+
+#EXTINF:-1, Treehouse
+https://tv.bell.ca/watch/channel-TREEH
